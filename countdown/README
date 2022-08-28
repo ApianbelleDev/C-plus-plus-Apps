@@ -1,0 +1,10 @@
+*WARNING. IF YOU PAID FOR THIS SOFTWARE, YOU GOT SCAMMED. THIS APPLICATION IS FREE AND OPEN SOURCE UNDER THE APACHE 2.0 LICENSE
+
+
+
+In order to install and use this application, you must have make. make can be installed with $sudo apt install make.
+After the install, execute "cd /src/" then execute "make countdown", as this will compile the application for you to use.
+
+
+
+to run the application, you first must make it an executable by executing "chmod u+x countdown", then it's as simple as just opening the application, entering a number, then watching it countdown.
